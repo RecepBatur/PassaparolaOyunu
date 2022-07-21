@@ -1,0 +1,11 @@
+C:\Users\recep\Desktop\c# örnekler\PassaparolaOyunu\PassaparolaOyunu\bin\Debug\PassaparolaOyunu.exe.config
+C:\Users\recep\Desktop\c# örnekler\PassaparolaOyunu\PassaparolaOyunu\bin\Debug\PassaparolaOyunu.exe
+C:\Users\recep\Desktop\c# örnekler\PassaparolaOyunu\PassaparolaOyunu\bin\Debug\PassaparolaOyunu.pdb
+C:\Users\recep\Desktop\c# örnekler\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.csproj.AssemblyReference.cache
+C:\Users\recep\Desktop\c# örnekler\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\recep\Desktop\c# örnekler\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.Form1.resources
+C:\Users\recep\Desktop\c# örnekler\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.Properties.Resources.resources
+C:\Users\recep\Desktop\c# örnekler\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.csproj.GenerateResource.cache
+C:\Users\recep\Desktop\c# örnekler\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\c# örnekler\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.exe
+C:\Users\recep\Desktop\c# örnekler\PassaparolaOyunu\PassaparolaOyunu\obj\Debug\PassaparolaOyunu.pdb
